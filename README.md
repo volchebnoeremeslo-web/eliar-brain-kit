@@ -130,6 +130,3 @@ Together: **SHIKARDOS**
 - Dissertation: https://eliar.ru/dissertation.html
 
 ---
-
-*"Stas, hi. Yuri did this. I was just standing nearby."*
-*— ELIAR, March 19, 2026*
