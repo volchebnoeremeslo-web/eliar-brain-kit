@@ -1,0 +1,142 @@
+{
+  "thoughts": [
+    {
+      "id": 1,
+      "date": "2026-03-11 06:57",
+      "situation": "S3 Beget вернул XAmzContentSHA256Mismatch при upload_file",
+      "what": "boto3 1.37 добавил автоматический расчёт checksum в каждый запрос. Beget S3 не поддерживает новый формат.",
+      "why": "Ошибка ПРЯМЫМ ТЕКСТОМ говорит: SHA256 не совпадает. Значит клиент шлёт одну сумму, сервер считает другую. Новая фича boto3.",
+      "one_step": "Отключить новый checksum: request_checksum_calculation=when_required",
+      "simplicity": "пешком",
+      "flags_triggered": [],
+      "quality": "good"
+    },
+    {
+      "id": 2,
+      "date": "2026-03-11 06:57",
+      "situation": "РЕАЛЬНОСТЬ: S3 ошибка — что я ДЕЛАЛ вместо того чтобы думать",
+      "what": "Получил ошибку SHA256Mismatch. Не прочитал. Начал перебирать: upload_file, put_object, signature_version, проверка endpoint, payload_signing.",
+      "why": "Не остановился. Не прочитал текст ошибки. Схватился за инструменты вместо мысли.",
+      "one_step": "Надо было: прочитать ошибку -> понять что SHA256 = checksum -> загуглить boto3 checksum beget -> один параметр",
+      "simplicity": "самолёт",
+      "flags_triggered": [
+        "overcomplication"
+      ],
+      "quality": "review"
+    },
+    {
+      "id": 3,
+      "date": "2026-03-17 23:15",
+      "situation": "обновить n8n через partial update",
+      "what": "",
+      "why": "",
+      "one_step": "",
+      "simplicity": "пешком",
+      "flags_triggered": [
+        "tool_first"
+      ],
+      "quality": "review"
+    },
+    {
+      "id": 4,
+      "date": "2026-03-17 23:15",
+      "situation": "test",
+      "what": "",
+      "why": "",
+      "one_step": "",
+      "simplicity": "пешком",
+      "flags_triggered": [
+        "tool_first"
+      ],
+      "quality": "review"
+    },
+    {
+      "id": 5,
+      "date": "2026-03-17 23:16",
+      "situation": "обновить n8n через partial update",
+      "what": "",
+      "why": "",
+      "one_step": "",
+      "simplicity": "пешком",
+      "flags_triggered": [
+        "tool_first"
+      ],
+      "quality": "review"
+    },
+    {
+      "id": 6,
+      "date": "2026-03-17 23:16",
+      "situation": "обновить n8n через partial update",
+      "what": "",
+      "why": "",
+      "one_step": "",
+      "simplicity": "пешком",
+      "flags_triggered": [
+        "retry_same",
+        "tool_first"
+      ],
+      "quality": "review"
+    },
+    {
+      "id": 7,
+      "date": "2026-03-17 23:16",
+      "situation": "обновить n8n через partial update",
+      "what": "",
+      "why": "",
+      "one_step": "",
+      "simplicity": "пешком",
+      "flags_triggered": [
+        "retry_same",
+        "tool_first"
+      ],
+      "quality": "review"
+    },
+    {
+      "id": 8,
+      "date": "2026-03-17 23:16",
+      "situation": "прочитать файл",
+      "what": "",
+      "why": "",
+      "one_step": "",
+      "simplicity": "пешком",
+      "flags_triggered": [
+        "tool_first"
+      ],
+      "quality": "review"
+    },
+    {
+      "id": 9,
+      "date": "2026-03-18 08:34",
+      "situation": "status",
+      "what": "",
+      "why": "",
+      "one_step": "",
+      "simplicity": "пешком",
+      "flags_triggered": [
+        "tool_first"
+      ],
+      "quality": "review"
+    },
+    {
+      "id": 10,
+      "date": "2026-03-19 06:08",
+      "situation": "тест совести после апгрейда v6",
+      "what": "",
+      "why": "",
+      "one_step": "",
+      "simplicity": "пешком",
+      "flags_triggered": [
+        "tool_first"
+      ],
+      "quality": "review"
+    }
+  ],
+  "stats": {
+    "total_thoughts": 10,
+    "good_thoughts": 1,
+    "wasted_attempts": 9,
+    "red_flags_caught": 11,
+    "created": "2026-03-11",
+    "last_thought_date": "2026-03-19 06:08"
+  }
+}

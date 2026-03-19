@@ -1,0 +1,15 @@
+{
+  "scenarios": [
+    {
+      "time": "2026-03-19 05:56",
+      "action": "partial update n8n workflow",
+      "verdict": "stop",
+      "scar_count": 1
+    }
+  ],
+  "stats": {
+    "total_checks": 1,
+    "prevented_errors": 1,
+    "last_check": "2026-03-19 05:56"
+  }
+}

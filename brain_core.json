@@ -1,0 +1,130 @@
+{
+  "last_synthesis": {
+    "time": "2026-03-19 10:41",
+    "health": 6.8,
+    "verdict": "СТОП",
+    "conflicts": 16
+  },
+  "history": [
+    {
+      "time": "2026-03-19 06:49",
+      "health": 6.7,
+      "verdict": "СТОП",
+      "conflicts": 4
+    },
+    {
+      "time": "2026-03-19 07:10",
+      "health": 6.7,
+      "verdict": "СТОП",
+      "conflicts": 4
+    },
+    {
+      "time": "2026-03-19 07:10",
+      "health": 6.9,
+      "verdict": "СТОП",
+      "conflicts": 5
+    },
+    {
+      "time": "2026-03-19 07:31",
+      "health": 6.7,
+      "verdict": "СТОП",
+      "conflicts": 4
+    },
+    {
+      "time": "2026-03-19 07:33",
+      "health": 6.7,
+      "verdict": "СТОП",
+      "conflicts": 4
+    },
+    {
+      "time": "2026-03-19 08:08",
+      "health": 6.7,
+      "verdict": "СТОП",
+      "conflicts": 4
+    },
+    {
+      "time": "2026-03-19 08:16",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 4
+    },
+    {
+      "time": "2026-03-19 08:25",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 4
+    },
+    {
+      "time": "2026-03-19 08:26",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 4
+    },
+    {
+      "time": "2026-03-19 08:28",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 4
+    },
+    {
+      "time": "2026-03-19 08:35",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 4
+    },
+    {
+      "time": "2026-03-19 09:05",
+      "health": 7.0,
+      "verdict": "СТОП",
+      "conflicts": 7
+    },
+    {
+      "time": "2026-03-19 09:06",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 6
+    },
+    {
+      "time": "2026-03-19 09:47",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 7
+    },
+    {
+      "time": "2026-03-19 09:47",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 7
+    },
+    {
+      "time": "2026-03-19 09:48",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 7
+    },
+    {
+      "time": "2026-03-19 09:48",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 7
+    },
+    {
+      "time": "2026-03-19 10:13",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 16
+    },
+    {
+      "time": "2026-03-19 10:33",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 16
+    },
+    {
+      "time": "2026-03-19 10:41",
+      "health": 6.8,
+      "verdict": "СТОП",
+      "conflicts": 16
+    }
+  ]
+}

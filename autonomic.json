@@ -1,0 +1,276 @@
+{
+  "mode": "neutral",
+  "tone": 0.45,
+  "last_updated": "2026-03-19 10:40",
+  "history": [
+    {
+      "time": "2026-03-19 06:18",
+      "mode": "neutral",
+      "tone": 0.5
+    },
+    {
+      "time": "2026-03-19 06:19",
+      "mode": "neutral",
+      "tone": 0.5
+    },
+    {
+      "time": "2026-03-19 06:19",
+      "mode": "neutral",
+      "tone": 0.5
+    },
+    {
+      "time": "2026-03-19 06:36",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 06:36",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 06:40",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 06:43",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 06:43",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 06:49",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 06:49",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 07:10",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 07:10",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 07:10",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 07:31",
+      "mode": "neutral",
+      "tone": 0.5
+    },
+    {
+      "time": "2026-03-19 07:31",
+      "mode": "neutral",
+      "tone": 0.5
+    },
+    {
+      "time": "2026-03-19 07:33",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 07:33",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 07:40",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 08:08",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 08:08",
+      "mode": "neutral",
+      "tone": 0.51
+    },
+    {
+      "time": "2026-03-19 08:09",
+      "mode": "neutral",
+      "tone": 0.44
+    },
+    {
+      "time": "2026-03-19 08:10",
+      "mode": "neutral",
+      "tone": 0.44
+    },
+    {
+      "time": "2026-03-19 08:16",
+      "mode": "neutral",
+      "tone": 0.44
+    },
+    {
+      "time": "2026-03-19 08:16",
+      "mode": "neutral",
+      "tone": 0.44
+    },
+    {
+      "time": "2026-03-19 08:26",
+      "mode": "neutral",
+      "tone": 0.43
+    },
+    {
+      "time": "2026-03-19 08:26",
+      "mode": "neutral",
+      "tone": 0.43
+    },
+    {
+      "time": "2026-03-19 08:28",
+      "mode": "neutral",
+      "tone": 0.43
+    },
+    {
+      "time": "2026-03-19 08:28",
+      "mode": "neutral",
+      "tone": 0.43
+    },
+    {
+      "time": "2026-03-19 08:35",
+      "mode": "neutral",
+      "tone": 0.43
+    },
+    {
+      "time": "2026-03-19 08:35",
+      "mode": "neutral",
+      "tone": 0.43
+    },
+    {
+      "time": "2026-03-19 08:40",
+      "mode": "neutral",
+      "tone": 0.43
+    },
+    {
+      "time": "2026-03-19 09:06",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:06",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:10",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:27",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:40",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:47",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:47",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:47",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:47",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:48",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:48",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:48",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 09:48",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 10:10",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 10:13",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 10:13",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 10:33",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 10:33",
+      "mode": "neutral",
+      "tone": 0.45
+    },
+    {
+      "time": "2026-03-19 10:40",
+      "mode": "neutral",
+      "tone": 0.45
+    }
+  ],
+  "stats": {
+    "sympathetic_count": 0,
+    "parasympathetic_count": 0,
+    "neutral_count": 50
+  },
+  "signals": {
+    "brain_stress": 0.32,
+    "stop_rate": 0.5,
+    "counterfactual": 0.8,
+    "session_gap": 1.0,
+    "time_of_day": 0.6,
+    "body_heart": 0.03
+  },
+  "body_input": {
+    "parasympathetic": 0.57,
+    "sympathetic": 0.42,
+    "body_signal": "Норма. Пульс 77.",
+    "injected_at": "2026-03-19 10:33"
+  }
+}

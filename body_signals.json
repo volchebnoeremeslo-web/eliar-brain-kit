@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-03-19T10:33:23.331022",
+  "source": "body_state.json → body_reader.py",
+  "overall_health": 0.968,
+  "ans": {
+    "stress_level": 0.03,
+    "parasympathetic": 0.57,
+    "sympathetic": 0.42,
+    "tone": "balanced",
+    "signal": "Норма. Пульс 77."
+  },
+  "breath": {
+    "arousal_from_body": 0.3,
+    "rhythm": "calm",
+    "arousal_delta": 0.0,
+    "signal": "Дыхание 14/мин (calm)"
+  },
+  "gut": {
+    "physical_hunger": 1.0,
+    "fill_percent": 0.0,
+    "signal": "Желудок пуст"
+  },
+  "endocrine": {
+    "hormonal_stress": 0.47,
+    "cortisol": 0.643,
+    "adrenaline": 0.216,
+    "threat_level": 0.47,
+    "signal": "Кортизол 0.64 | Адреналин 0.22"
+  },
+  "immune": {
+    "physical_discomfort": 0.08,
+    "inflammation": 0.05,
+    "pain_delta": 0.015,
+    "signal": "Воспаление 5%"
+  }
+}

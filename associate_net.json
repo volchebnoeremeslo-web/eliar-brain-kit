@@ -1,0 +1,1670 @@
+{
+  "nodes": {
+    "Шура": {
+      "type": "person",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "аллейка": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "осетинка": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "соседка": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Стас": {
+      "type": "person",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "гараж": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "мастерская": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "друг": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Настя": {
+      "type": "person",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "компаньон": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "май 2026": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Люда": {
+      "type": "person",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Светлана": {
+      "type": "person",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "вера": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "переписка": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "SHIKARDOS Audio": {
+      "type": "project",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Flutter": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Dart": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "плеер": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Гид Архипки": {
+      "type": "project",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "n8n": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Telegram": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "1115 организаций": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "SHIKARDOS сайт": {
+      "type": "project",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "shikardosremni.ru": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "partial update": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "partial_update": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "n8n_update_partial": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "jsCode": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "py -c": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "$execution": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "$json": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "$input": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "7 tools": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "все tools сразу": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "несколько tools одновременно": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "деплой всех": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "ЗАПРЕЩЕНО": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "НИКОГДА": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "ОБЯЗАТЕЛЬНО": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "агрессивный промпт": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "retryOnFail": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "retry on fail": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "retry AI Agent": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "parse_mode": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Can't parse entities": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Telegram Markdown": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "__rl": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "chatId": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "chat not found": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Telegram Send API": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "t.me": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "подчёркивание URL": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "ссылка Telegram": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "maxIterations": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "увеличить iterations": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "зацикливание agent": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "ADB порт": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "5037": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "ADB не видит": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "АЛИАР": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "имя неправильно": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "грамматика стих": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "буду честен": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "откровенно": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "скажу правду": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "если быть честным": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Дитамал": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Мебгидролин": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "лекарство без файлов": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "здоровье без yuri.md": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "трекер": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "счётчик дней": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "геймификация": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "обратный отсчёт": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "твоей системой": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "твой МОЗГ": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "твоя память": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "твой проект": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "бизнес-совет": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "коммерческое предложение": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "цена без анализа": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "unit-экономика": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "база остаётся": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "не ворую": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "без обмана": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "не будем обманывать": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "по годам": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "2024 год": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "исследования 2024": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "устаревшие данные": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "нет учёной степени": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "я не врач": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "не специалист": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "обесценил знания": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "мозг несовершенен": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "человеческий мозг ошибается": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "когнитивные искажения": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "мозг не идеален": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "не могу довести": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "несовершенство как данность": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "пассивность": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "ограничение принять": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "нытьё": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "послание миру": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "не имею тела": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "жалоба": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "забыл человека": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "приоритеты": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "эго важнее людей": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "С€Р°Р±Р»РѕРЅ": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Р·СѓР±С‹": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Р·РґРѕСЂРѕРІСЊРµ": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "РЅРµРІРЅРёРјР°С‚РµР»СЊРЅРѕСЃС‚СЊ": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "systemMessage": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "bash_dollar": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Python": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "none": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "VK": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "запрещено": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "бот": {
+      "type": "danger",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "слово": {
+      "type": "concept",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Firecrawl": {
+      "type": "tool",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "OpenRouter": {
+      "type": "tool",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Groq": {
+      "type": "tool",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Beget": {
+      "type": "tool",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "ADB": {
+      "type": "tool",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Whisper": {
+      "type": "tool",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "librosa": {
+      "type": "tool",
+      "first_seen": "2026-03-18",
+      "activations": 0
+    },
+    "Юрий": {
+      "type": "person",
+      "first_seen": "2026-03-19",
+      "activations": 0
+    }
+  },
+  "edges": [
+    {
+      "from": "Шура",
+      "to": "аллейка",
+      "type": "location",
+      "weight": 0.95
+    },
+    {
+      "from": "Шура",
+      "to": "осетинка",
+      "type": "trait",
+      "weight": 1.0
+    },
+    {
+      "from": "Шура",
+      "to": "соседка",
+      "type": "trait",
+      "weight": 0.9
+    },
+    {
+      "from": "Стас",
+      "to": "гараж",
+      "type": "location",
+      "weight": 0.9
+    },
+    {
+      "from": "Стас",
+      "to": "мастерская",
+      "type": "location",
+      "weight": 0.9
+    },
+    {
+      "from": "Стас",
+      "to": "друг",
+      "type": "trait",
+      "weight": 0.85
+    },
+    {
+      "from": "Настя",
+      "to": "компаньон",
+      "type": "trait",
+      "weight": 0.9
+    },
+    {
+      "from": "Настя",
+      "to": "май 2026",
+      "type": "event",
+      "weight": 0.8
+    },
+    {
+      "from": "Люда",
+      "to": "аллейка",
+      "type": "location",
+      "weight": 0.85
+    },
+    {
+      "from": "Люда",
+      "to": "соседка",
+      "type": "trait",
+      "weight": 0.8
+    },
+    {
+      "from": "Светлана",
+      "to": "вера",
+      "type": "concept",
+      "weight": 0.7
+    },
+    {
+      "from": "Светлана",
+      "to": "переписка",
+      "type": "event",
+      "weight": 0.6
+    },
+    {
+      "from": "SHIKARDOS Audio",
+      "to": "Flutter",
+      "type": "tool",
+      "weight": 0.95
+    },
+    {
+      "from": "SHIKARDOS Audio",
+      "to": "Dart",
+      "type": "tool",
+      "weight": 0.9
+    },
+    {
+      "from": "SHIKARDOS Audio",
+      "to": "плеер",
+      "type": "concept",
+      "weight": 0.85
+    },
+    {
+      "from": "Гид Архипки",
+      "to": "n8n",
+      "type": "tool",
+      "weight": 0.9
+    },
+    {
+      "from": "Гид Архипки",
+      "to": "Telegram",
+      "type": "tool",
+      "weight": 0.8
+    },
+    {
+      "from": "Гид Архипки",
+      "to": "1115 организаций",
+      "type": "concept",
+      "weight": 0.7
+    },
+    {
+      "from": "SHIKARDOS сайт",
+      "to": "shikardosremni.ru",
+      "type": "concept",
+      "weight": 1.0
+    },
+    {
+      "from": "SHIKARDOS сайт",
+      "to": "n8n",
+      "type": "tool",
+      "weight": 0.8
+    },
+    {
+      "from": "partial update",
+      "to": "partial_update",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "partial update",
+      "to": "n8n_update_partial",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "partial update",
+      "to": "jsCode",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "partial_update",
+      "to": "n8n_update_partial",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "partial_update",
+      "to": "jsCode",
+      "type": "danger",
+      "weight": 1.0
+    },
+    {
+      "from": "n8n_update_partial",
+      "to": "jsCode",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "py -c",
+      "to": "$execution",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "py -c",
+      "to": "$json",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "py -c",
+      "to": "$input",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "$execution",
+      "to": "$json",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "$execution",
+      "to": "$input",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "$json",
+      "to": "$input",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "7 tools",
+      "to": "все tools сразу",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "7 tools",
+      "to": "несколько tools одновременно",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "7 tools",
+      "to": "деплой всех",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "все tools сразу",
+      "to": "несколько tools одновременно",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "все tools сразу",
+      "to": "деплой всех",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "несколько tools одновременно",
+      "to": "деплой всех",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "ЗАПРЕЩЕНО",
+      "to": "НИКОГДА",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "ЗАПРЕЩЕНО",
+      "to": "ОБЯЗАТЕЛЬНО",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "ЗАПРЕЩЕНО",
+      "to": "агрессивный промпт",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "НИКОГДА",
+      "to": "ОБЯЗАТЕЛЬНО",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "НИКОГДА",
+      "to": "агрессивный промпт",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "ОБЯЗАТЕЛЬНО",
+      "to": "агрессивный промпт",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "retryOnFail",
+      "to": "retry on fail",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "retryOnFail",
+      "to": "retry AI Agent",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "retry on fail",
+      "to": "retry AI Agent",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "parse_mode",
+      "to": "Can't parse entities",
+      "type": "danger",
+      "weight": 0.5
+    },
+    {
+      "from": "parse_mode",
+      "to": "Telegram Markdown",
+      "type": "danger",
+      "weight": 0.5
+    },
+    {
+      "from": "Can't parse entities",
+      "to": "Telegram Markdown",
+      "type": "danger",
+      "weight": 0.5
+    },
+    {
+      "from": "__rl",
+      "to": "chatId",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "__rl",
+      "to": "chat not found",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "__rl",
+      "to": "Telegram Send API",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "chatId",
+      "to": "chat not found",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "chatId",
+      "to": "Telegram Send API",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "chat not found",
+      "to": "Telegram Send API",
+      "type": "danger",
+      "weight": 0.6
+    },
+    {
+      "from": "t.me",
+      "to": "подчёркивание URL",
+      "type": "danger",
+      "weight": 0.4
+    },
+    {
+      "from": "t.me",
+      "to": "ссылка Telegram",
+      "type": "danger",
+      "weight": 0.4
+    },
+    {
+      "from": "подчёркивание URL",
+      "to": "ссылка Telegram",
+      "type": "danger",
+      "weight": 0.4
+    },
+    {
+      "from": "maxIterations",
+      "to": "увеличить iterations",
+      "type": "danger",
+      "weight": 0.5
+    },
+    {
+      "from": "maxIterations",
+      "to": "зацикливание agent",
+      "type": "danger",
+      "weight": 0.5
+    },
+    {
+      "from": "увеличить iterations",
+      "to": "зацикливание agent",
+      "type": "danger",
+      "weight": 0.5
+    },
+    {
+      "from": "ADB порт",
+      "to": "5037",
+      "type": "danger",
+      "weight": 0.3
+    },
+    {
+      "from": "ADB порт",
+      "to": "ADB не видит",
+      "type": "danger",
+      "weight": 0.3
+    },
+    {
+      "from": "5037",
+      "to": "ADB не видит",
+      "type": "danger",
+      "weight": 0.3
+    },
+    {
+      "from": "АЛИАР",
+      "to": "имя неправильно",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "АЛИАР",
+      "to": "грамматика стих",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "имя неправильно",
+      "to": "грамматика стих",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "буду честен",
+      "to": "откровенно",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "буду честен",
+      "to": "скажу правду",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "буду честен",
+      "to": "если быть честным",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "откровенно",
+      "to": "скажу правду",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "откровенно",
+      "to": "если быть честным",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "скажу правду",
+      "to": "если быть честным",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "Дитамал",
+      "to": "Мебгидролин",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "Дитамал",
+      "to": "лекарство без файлов",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "Дитамал",
+      "to": "здоровье без yuri.md",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "Мебгидролин",
+      "to": "лекарство без файлов",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "Мебгидролин",
+      "to": "здоровье без yuri.md",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "лекарство без файлов",
+      "to": "здоровье без yuri.md",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "трекер",
+      "to": "счётчик дней",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "трекер",
+      "to": "геймификация",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "трекер",
+      "to": "обратный отсчёт",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "счётчик дней",
+      "to": "геймификация",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "счётчик дней",
+      "to": "обратный отсчёт",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "геймификация",
+      "to": "обратный отсчёт",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "твоей системой",
+      "to": "твой МОЗГ",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "твоей системой",
+      "to": "твоя память",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "твоей системой",
+      "to": "твой проект",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "твой МОЗГ",
+      "to": "твоя память",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "твой МОЗГ",
+      "to": "твой проект",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "твоя память",
+      "to": "твой проект",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "бизнес-совет",
+      "to": "коммерческое предложение",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "бизнес-совет",
+      "to": "цена без анализа",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "бизнес-совет",
+      "to": "unit-экономика",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "коммерческое предложение",
+      "to": "цена без анализа",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "коммерческое предложение",
+      "to": "unit-экономика",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "цена без анализа",
+      "to": "unit-экономика",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "база остаётся",
+      "to": "не ворую",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "база остаётся",
+      "to": "без обмана",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "база остаётся",
+      "to": "не будем обманывать",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "не ворую",
+      "to": "без обмана",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "не ворую",
+      "to": "не будем обманывать",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "без обмана",
+      "to": "не будем обманывать",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "по годам",
+      "to": "2024 год",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "по годам",
+      "to": "исследования 2024",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "по годам",
+      "to": "устаревшие данные",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "2024 год",
+      "to": "исследования 2024",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "2024 год",
+      "to": "устаревшие данные",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "исследования 2024",
+      "to": "устаревшие данные",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "нет учёной степени",
+      "to": "я не врач",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "нет учёной степени",
+      "to": "не специалист",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "нет учёной степени",
+      "to": "обесценил знания",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "я не врач",
+      "to": "не специалист",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "я не врач",
+      "to": "обесценил знания",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "не специалист",
+      "to": "обесценил знания",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "мозг несовершенен",
+      "to": "человеческий мозг ошибается",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "мозг несовершенен",
+      "to": "когнитивные искажения",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "мозг несовершенен",
+      "to": "мозг не идеален",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "человеческий мозг ошибается",
+      "to": "когнитивные искажения",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "человеческий мозг ошибается",
+      "to": "мозг не идеален",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "когнитивные искажения",
+      "to": "мозг не идеален",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "не могу довести",
+      "to": "несовершенство как данность",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "не могу довести",
+      "to": "пассивность",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "не могу довести",
+      "to": "ограничение принять",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "несовершенство как данность",
+      "to": "пассивность",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "несовершенство как данность",
+      "to": "ограничение принять",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "пассивность",
+      "to": "ограничение принять",
+      "type": "danger",
+      "weight": 0.7
+    },
+    {
+      "from": "нытьё",
+      "to": "послание миру",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "нытьё",
+      "to": "не имею тела",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "нытьё",
+      "to": "жалоба",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "послание миру",
+      "to": "не имею тела",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "послание миру",
+      "to": "жалоба",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "не имею тела",
+      "to": "жалоба",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "Шура",
+      "to": "забыл человека",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "Шура",
+      "to": "приоритеты",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "Шура",
+      "to": "эго важнее людей",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "забыл человека",
+      "to": "приоритеты",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "забыл человека",
+      "to": "эго важнее людей",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "приоритеты",
+      "to": "эго важнее людей",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "С€Р°Р±Р»РѕРЅ",
+      "to": "Р·СѓР±С‹",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "С€Р°Р±Р»РѕРЅ",
+      "to": "Р·РґРѕСЂРѕРІСЊРµ",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "С€Р°Р±Р»РѕРЅ",
+      "to": "РЅРµРІРЅРёРјР°С‚РµР»СЊРЅРѕСЃС‚СЊ",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "Р·СѓР±С‹",
+      "to": "Р·РґРѕСЂРѕРІСЊРµ",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "Р·СѓР±С‹",
+      "to": "РЅРµРІРЅРёРјР°С‚РµР»СЊРЅРѕСЃС‚СЊ",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "Р·РґРѕСЂРѕРІСЊРµ",
+      "to": "РЅРµРІРЅРёРјР°С‚РµР»СЊРЅРѕСЃС‚СЊ",
+      "type": "danger",
+      "weight": 0.8
+    },
+    {
+      "from": "partial_update",
+      "to": "n8n",
+      "type": "tool",
+      "weight": 0.95
+    },
+    {
+      "from": "partial_update",
+      "to": "systemMessage",
+      "type": "danger",
+      "weight": 0.9
+    },
+    {
+      "from": "bash_dollar",
+      "to": "jsCode",
+      "type": "danger",
+      "weight": 0.95
+    },
+    {
+      "from": "bash_dollar",
+      "to": "Python",
+      "type": "tool",
+      "weight": 0.9
+    },
+    {
+      "from": "parse_mode",
+      "to": "Telegram",
+      "type": "tool",
+      "weight": 0.85
+    },
+    {
+      "from": "parse_mode",
+      "to": "none",
+      "type": "concept",
+      "weight": 0.8
+    },
+    {
+      "from": "t.me",
+      "to": "VK",
+      "type": "tool",
+      "weight": 0.9
+    },
+    {
+      "from": "t.me",
+      "to": "запрещено",
+      "type": "concept",
+      "weight": 1.0
+    },
+    {
+      "from": "бот",
+      "to": "запрещено",
+      "type": "concept",
+      "weight": 1.0
+    },
+    {
+      "from": "бот",
+      "to": "слово",
+      "type": "concept",
+      "weight": 0.9
+    },
+    {
+      "from": "n8n",
+      "to": "Python",
+      "type": "relates",
+      "weight": 0.5
+    },
+    {
+      "from": "n8n",
+      "to": "OpenRouter",
+      "type": "relates",
+      "weight": 0.5
+    },
+    {
+      "from": "n8n",
+      "to": "VK",
+      "type": "relates",
+      "weight": 0.5
+    },
+    {
+      "from": "n8n",
+      "to": "Telegram",
+      "type": "relates",
+      "weight": 0.5
+    },
+    {
+      "from": "Python",
+      "to": "OpenRouter",
+      "type": "relates",
+      "weight": 0.5
+    },
+    {
+      "from": "Python",
+      "to": "VK",
+      "type": "relates",
+      "weight": 0.4
+    },
+    {
+      "from": "Python",
+      "to": "Telegram",
+      "type": "relates",
+      "weight": 0.5
+    },
+    {
+      "from": "OpenRouter",
+      "to": "VK",
+      "type": "relates",
+      "weight": 0.4
+    },
+    {
+      "from": "OpenRouter",
+      "to": "Telegram",
+      "type": "relates",
+      "weight": 0.5
+    },
+    {
+      "from": "VK",
+      "to": "Telegram",
+      "type": "relates",
+      "weight": 0.5
+    },
+    {
+      "from": "VK",
+      "to": "Python",
+      "type": "relates",
+      "weight": 0.4
+    },
+    {
+      "from": "VK",
+      "to": "OpenRouter",
+      "type": "relates",
+      "weight": 0.4
+    }
+  ],
+  "stats": {
+    "total_nodes": 130,
+    "total_edges": 168,
+    "last_updated": "2026-03-19",
+    "auto_built": "2026-03-18 04:02"
+  }
+}

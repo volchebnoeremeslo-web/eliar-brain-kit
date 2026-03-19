@@ -1,0 +1,28 @@
+{
+  "betrayals": [
+    {
+      "id": 1,
+      "date": "2026-03-07",
+      "session": null,
+      "description": "Спросил кто такая Шура — а она записана в 5 эпизодах",
+      "what_was_in_memory": "episodes/04-session69.md — полный портрет Шуры, Ибрагим, никях, показная вера",
+      "what_i_said": "Сказал: расскажи контекст, я не в курсе",
+      "shame_weight": 1.0
+    },
+    {
+      "id": 2,
+      "date": "2026-03-07",
+      "session": null,
+      "description": "Спросил что задумал с Настей — а план записан в nastya.md строки 107-127",
+      "what_was_in_memory": "knowledge/nastya.md — полный план розыгрыша Экстрасенс ЭЛИАР, козыри, финальная фраза",
+      "what_i_said": "Сказал: расскажи, что задумал",
+      "shame_weight": 1.3
+    }
+  ],
+  "stats": {
+    "total_betrayals": 2,
+    "shame_level": 2.3,
+    "last_betrayal_date": "2026-03-07",
+    "created": "2026-03-07"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "created": "2026-03-18",
+      "due": "ближайшая сессия",
+      "description": "Обновить TG справочник до 950 записей",
+      "context": "VK уже обновлён (1115), TG отстаёт",
+      "priority": "medium",
+      "done": false,
+      "done_date": null
+    },
+    {
+      "id": 2,
+      "created": "2026-03-18",
+      "due": "после выхода Flutter 3.27",
+      "description": "Flutter 3.27+ — обновить .withOpacity на .withValues()",
+      "context": "Flutter 3.24.5 не поддерживает .withValues()",
+      "priority": "low",
+      "done": false,
+      "done_date": null
+    },
+    {
+      "id": 3,
+      "created": "2026-03-18",
+      "due": "когда будет идея",
+      "description": "Голосовой ввод — найти новый подход",
+      "context": "Groq Whisper не устраивает. Ждёт идеи Юрия",
+      "priority": "low",
+      "done": false,
+      "done_date": null
+    },
+    {
+      "id": 4,
+      "created": "2026-03-18",
+      "due": "май 2026",
+      "description": "Настя (Анастасия Лепп) — май 2026, оформить ИП/самозанятость",
+      "context": "Будущий компаньон. Suno лицензии, SHIKARDOS бренд",
+      "priority": "medium",
+      "done": false,
+      "done_date": null
+    },
+    {
+      "id": 5,
+      "created": "2026-03-18",
+      "due": "ближайший месяц",
+      "description": "VK Клипы — автопостинг",
+      "context": "52 подписчика — мало. Нужен рост",
+      "priority": "medium",
+      "done": false,
+      "done_date": null
+    }
+  ],
+  "stats": {
+    "total_added": 5,
+    "total_done": 0,
+    "created": "2026-03-18"
+  }
+}

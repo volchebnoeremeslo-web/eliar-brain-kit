@@ -1,0 +1,91 @@
+{
+  "intents": {
+    "stand": {
+      "label": "Встать / стоять",
+      "cerebellum_key": "stand",
+      "readiness": 0.9,
+      "executions": 0,
+      "successes": 0,
+      "failures": 0,
+      "last_executed": null
+    },
+    "sit": {
+      "label": "Сесть",
+      "cerebellum_key": "sit",
+      "readiness": 0.6,
+      "executions": 0,
+      "successes": 0,
+      "failures": 0,
+      "last_executed": null
+    },
+    "walk": {
+      "label": "Идти",
+      "cerebellum_key": "walk_step_r",
+      "readiness": 0.14,
+      "executions": 2,
+      "successes": 2,
+      "failures": 0,
+      "last_executed": "2026-03-19T06:36:58.310824"
+    },
+    "reach": {
+      "label": "Потянуться рукой",
+      "cerebellum_key": "reach_r",
+      "readiness": 0.74,
+      "executions": 0,
+      "successes": 2,
+      "failures": 0,
+      "last_executed": null
+    },
+    "squat": {
+      "label": "Присесть",
+      "cerebellum_key": "squat",
+      "readiness": 0.12,
+      "executions": 0,
+      "successes": 1,
+      "failures": 0,
+      "last_executed": null
+    },
+    "turn": {
+      "label": "Повернуться",
+      "cerebellum_key": null,
+      "readiness": 0.0,
+      "executions": 0,
+      "successes": 0,
+      "failures": 0,
+      "last_executed": null
+    },
+    "balance": {
+      "label": "Удерживать баланс",
+      "cerebellum_key": "stand",
+      "readiness": 0.42,
+      "executions": 0,
+      "successes": 1,
+      "failures": 0,
+      "last_executed": null
+    },
+    "pick_up": {
+      "label": "Поднять предмет",
+      "cerebellum_key": null,
+      "readiness": 0.0,
+      "executions": 0,
+      "successes": 0,
+      "failures": 0,
+      "last_executed": null
+    },
+    "wave": {
+      "label": "Помахать рукой",
+      "cerebellum_key": null,
+      "readiness": 0.0,
+      "executions": 0,
+      "successes": 0,
+      "failures": 0,
+      "last_executed": null
+    }
+  },
+  "active_intent": "walk",
+  "last_updated": "2026-03-19T06:36:17.545668",
+  "stats": {
+    "total_intents": 2,
+    "avg_readiness": 0.32
+  }
+}

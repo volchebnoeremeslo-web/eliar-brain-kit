@@ -1,0 +1,16 @@
+{
+  "level": "созерцание",
+  "description": "θεωρία — видение логосов. Смыслы открываются.",
+  "level_score": 0.6,
+  "coherence": 0.3,
+  "logos_signal": 0.7,
+  "inputs": {
+    "conscience": "СТОП",
+    "will_mode": "unknown",
+    "reason_score": 1.0,
+    "bias_load": 0.0,
+    "flow_level": "none",
+    "pain_level": 0.0
+  },
+  "last_updated": "2026-03-19 10:33"
+}

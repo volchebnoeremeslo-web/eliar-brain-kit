@@ -1,0 +1,16 @@
+{
+  "insights_generated": [
+    {
+      "time": "2026-03-19 09:40",
+      "text": "Ещё не обновлён TG справочник до 950 записей — это висит с прошлой сессии",
+      "gap_hours": 1.1
+    }
+  ],
+  "last_consolidation": "2026-03-19T10:10:02.067521",
+  "stats": {
+    "total_rest_hours": 4.73,
+    "insights_count": 1,
+    "ticks_total": 33
+  },
+  "last_tick": "2026-03-19T10:40:02.054900"
+}

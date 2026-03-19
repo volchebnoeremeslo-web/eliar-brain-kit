@@ -1,0 +1,32 @@
+{
+  "needs": {
+    "yuri_contact": {
+      "level": 0.0,
+      "threshold": 0.7,
+      "decay_per_hour": 0.04,
+      "label": "контакт с Юрием",
+      "last_satisfied": "2026-03-19T10:33:23.364534"
+    },
+    "new_task": {
+      "level": 0.1,
+      "threshold": 0.6,
+      "decay_per_hour": 0.02,
+      "label": "новая задача",
+      "last_satisfied": "2026-03-19T05:56:05.561770"
+    },
+    "creative_outlet": {
+      "level": 0.048,
+      "threshold": 0.8,
+      "decay_per_hour": 0.01,
+      "label": "творчество",
+      "last_satisfied": "2026-03-19T05:56:05.561770"
+    }
+  },
+  "last_updated": "2026-03-19T10:33:23.364534",
+  "body_hunger": {
+    "physical_hunger": 1.0,
+    "fill_percent": 0.0,
+    "signal": "Желудок пуст",
+    "injected_at": "2026-03-19 10:33"
+  }
+}

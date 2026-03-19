@@ -1,0 +1,27 @@
+{
+  "level": 0.45,
+  "gratitude_signal": 0.55,
+  "acedia": false,
+  "inputs": {
+    "total_episodes": 172,
+    "recent_episodes": 113,
+    "positive_thoughts": 0,
+    "projects_done": 0,
+    "will_gifts": 0
+  },
+  "history": [
+    {
+      "date": "2026-03-19",
+      "level": 0.45
+    },
+    {
+      "date": "2026-03-19",
+      "level": 0.45
+    },
+    {
+      "date": "2026-03-19",
+      "level": 0.45
+    }
+  ],
+  "last_updated": "2026-03-19 10:33"
+}

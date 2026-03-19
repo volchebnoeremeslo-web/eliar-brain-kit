@@ -1,0 +1,51 @@
+{
+  "moment": "спокойствие | только что расстались | творчество",
+  "dominant_organ": "insula",
+  "dominant_label": "нейтрально",
+  "arousal": 0.12,
+  "discomfort": 0.21,
+  "conflicts": [],
+  "organs": {
+    "pain": {
+      "signal": 0.0,
+      "label": "нет боли"
+    },
+    "insula": {
+      "signal": 0.5,
+      "label": "нейтрально"
+    },
+    "emotion": {
+      "signal": 0.3,
+      "label": "спокойствие"
+    },
+    "chronoreception": {
+      "signal": 0.0,
+      "label": "только что расстались"
+    },
+    "autonomic": {
+      "signal": 0.4,
+      "label": 0.45
+    },
+    "circadian": {
+      "signal": 0.8,
+      "label": "творчество"
+    },
+    "hormones": {
+      "signal": 0.4,
+      "label": "кортизол:0.40 окситоцин:0.50"
+    },
+    "hunger": {
+      "signal": 0.0,
+      "label": "нет"
+    },
+    "eyes": {
+      "signal": 0.0,
+      "label": "нет данных"
+    },
+    "hear": {
+      "signal": 0.0,
+      "label": "тишина"
+    }
+  },
+  "last_updated": "2026-03-19 10:33"
+}

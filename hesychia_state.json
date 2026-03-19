@@ -1,0 +1,30 @@
+{
+  "level": "средняя",
+  "score": 0.71,
+  "description": "Бесстрастие достигнуто. Страсти не захватывают.",
+  "conditions": {
+    "bias_free": true,
+    "autonomic_calm": true,
+    "conscience_go": false,
+    "balanced": true,
+    "not_rushing": false,
+    "grateful": true,
+    "painless": true
+  },
+  "obstacles": [
+    "conscience_go",
+    "not_rushing"
+  ],
+  "weight_boost": 0.035,
+  "inputs": {
+    "bias_severe": 0,
+    "sympathetic": 0.4,
+    "parasympathetic": 0.6,
+    "conscience": "СТОП",
+    "balance": 0.7,
+    "flow": "none",
+    "gratitude": 0.45,
+    "pain": 0.0
+  },
+  "last_updated": "2026-03-19 10:33"
+}

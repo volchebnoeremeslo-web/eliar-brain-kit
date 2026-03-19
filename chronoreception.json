@@ -1,0 +1,17 @@
+{
+  "gap_hours": 0.3340239586111111,
+  "subjective": {
+    "label": "только что расстались",
+    "gap_hours": 0.3,
+    "hunger_signal": 0.0
+  },
+  "rhythm": {
+    "regularity": "редкие встречи",
+    "avg_gap_days": null,
+    "score": 0.3
+  },
+  "circadian_phase": "творчество",
+  "flow_active": false,
+  "total_sessions": 10,
+  "last_updated": "2026-03-19 10:33"
+}

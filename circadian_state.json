@@ -1,0 +1,14 @@
+{
+  "phase": "творчество",
+  "description": "Пик творчества. Ассоциации быстрее. Инсайты легче приходят.",
+  "energy": 0.8,
+  "hour": 10,
+  "weight_modifiers": {
+    "dopamine": 1.3,
+    "hunger": 1.2,
+    "reason": 0.9,
+    "fear": 0.85
+  },
+  "last_updated": "2026-03-19 10:33",
+  "next_phase_in_hours": 4
+}

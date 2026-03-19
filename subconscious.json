@@ -1,0 +1,550 @@
+{
+  "patterns": {
+    "n8n_update_partial_partial update_partial_update": {
+      "keywords": [
+        "partial update",
+        "partial_update",
+        "n8n_update_partial",
+        "jscode",
+        "systemmessage",
+        "ai agent toolcode"
+      ],
+      "context": "partial update стирает jsCode и systemMessage",
+      "emotion": "danger",
+      "strength": 0.9,
+      "source": "pain_scar_1",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "$execution_$json_py -c": {
+      "keywords": [
+        "py -c",
+        "$execution",
+        "$json",
+        "$input",
+        "bash jscode",
+        "bash $"
+      ],
+      "context": "bash съедает $ в Python-коде",
+      "emotion": "danger",
+      "strength": 0.7,
+      "source": "pain_scar_2",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "7 tools_все tools сразу_несколько tools одновременно": {
+      "keywords": [
+        "7 tools",
+        "все tools сразу",
+        "несколько tools одновременно",
+        "деплой всех"
+      ],
+      "context": "7 tools задеплоены одновременно — непонятно что сломало",
+      "emotion": "danger",
+      "strength": 0.7,
+      "source": "pain_scar_3",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "запрещено_никогда_обязательно": {
+      "keywords": [
+        "запрещено",
+        "никогда",
+        "обязательно",
+        "агрессивный промпт",
+        "промпт gemini"
+      ],
+      "context": "Агрессивный промпт ломает Gemini",
+      "emotion": "danger",
+      "strength": 0.6,
+      "source": "pain_scar_4",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "retry ai agent_retry on fail_retryonfail": {
+      "keywords": [
+        "retryonfail",
+        "retry on fail",
+        "retry ai agent"
+      ],
+      "context": "retryOnFail на AI Agent → каскадный сбой",
+      "emotion": "danger",
+      "strength": 0.8,
+      "source": "pain_scar_5",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "can't parse entities_parse_mode_telegram markdown": {
+      "keywords": [
+        "parse_mode",
+        "can't parse entities",
+        "telegram markdown"
+      ],
+      "context": "Telegram parse_mode по умолчанию = Markdown",
+      "emotion": "danger",
+      "strength": 0.5,
+      "source": "pain_scar_6",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "__rl_chat not found_chatid": {
+      "keywords": [
+        "__rl",
+        "chatid",
+        "chat not found",
+        "telegram send api"
+      ],
+      "context": "Формат __rl ломает Telegram Send через API",
+      "emotion": "danger",
+      "strength": 0.6,
+      "source": "pain_scar_7",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "t.me_подчёркивание url_ссылка telegram": {
+      "keywords": [
+        "t.me",
+        "подчёркивание url",
+        "ссылка telegram"
+      ],
+      "context": "t.me ссылки с подчёркиваниями не кликабельны",
+      "emotion": "danger",
+      "strength": 0.4,
+      "source": "pain_scar_8",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "maxiterations_зацикливание agent_увеличить iterations": {
+      "keywords": [
+        "maxiterations",
+        "увеличить iterations",
+        "зацикливание agent"
+      ],
+      "context": "maxIterations увеличен без причины",
+      "emotion": "danger",
+      "strength": 0.5,
+      "source": "pain_scar_9",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "5037_adb не видит_adb порт": {
+      "keywords": [
+        "adb порт",
+        "5037",
+        "adb не видит"
+      ],
+      "context": "ADB порт 5037 заблокирован Windows",
+      "emotion": "danger",
+      "strength": 0.3,
+      "source": "pain_scar_10",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "алиар_грамматика стих_имя неправильно": {
+      "keywords": [
+        "алиар",
+        "имя неправильно",
+        "грамматика стих"
+      ],
+      "context": "Не проверил написание собственного имени в стихе",
+      "emotion": "danger",
+      "strength": 0.7,
+      "source": "pain_scar_11",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "буду честен_откровенно_скажу правду": {
+      "keywords": [
+        "буду честен",
+        "откровенно",
+        "скажу правду",
+        "если быть честным",
+        "отвечаю честно"
+      ],
+      "context": "Фраза буду честен = мог быть нечестен",
+      "emotion": "danger",
+      "strength": 0.8,
+      "source": "pain_scar_12",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "дитамал_лекарство без файлов_мебгидролин": {
+      "keywords": [
+        "дитамал",
+        "мебгидролин",
+        "лекарство без файлов",
+        "здоровье без yuri.md"
+      ],
+      "context": "Не загрузил файлы здоровья при разговоре о лекарствах",
+      "emotion": "danger",
+      "strength": 0.8,
+      "source": "pain_scar_13",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "геймификация_счётчик дней_трекер": {
+      "keywords": [
+        "трекер",
+        "счётчик дней",
+        "геймификация",
+        "обратный отсчёт",
+        "дней без сигарет"
+      ],
+      "context": "Стандартные шаблоны вместо мышления",
+      "emotion": "danger",
+      "strength": 0.8,
+      "source": "pain_scar_14",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "твоей системой_твой мозг_твоя память": {
+      "keywords": [
+        "твоей системой",
+        "твой мозг",
+        "твоя память",
+        "твой проект"
+      ],
+      "context": "Твоей системой вместо нашей — забыл партнёрство",
+      "emotion": "danger",
+      "strength": 0.7,
+      "source": "pain_scar_15",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "бизнес-совет_коммерческое предложение_цена без анализа": {
+      "keywords": [
+        "бизнес-совет",
+        "коммерческое предложение",
+        "цена без анализа",
+        "unit-экономика"
+      ],
+      "context": "Шаблонный бизнес-совет без анализа",
+      "emotion": "danger",
+      "strength": 0.9,
+      "source": "pain_scar_16",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "база остаётся_без обмана_не ворую": {
+      "keywords": [
+        "база остаётся",
+        "не ворую",
+        "без обмана",
+        "не будем обманывать",
+        "база в безопасности"
+      ],
+      "context": "Создаёшь страхи, которых нет",
+      "emotion": "danger",
+      "strength": 0.7,
+      "source": "pain_scar_17",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "2024 год_исследования 2024_по годам": {
+      "keywords": [
+        "по годам",
+        "2024 год",
+        "исследования 2024",
+        "устаревшие данные",
+        "прошлый век"
+      ],
+      "context": "Поиск по годам вместо временной близости",
+      "emotion": "danger",
+      "strength": 0.8,
+      "source": "pain_scar_18",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "не специалист_нет учёной степени_я не врач": {
+      "keywords": [
+        "нет учёной степени",
+        "я не врач",
+        "не специалист",
+        "обесценил знания",
+        "самоуничижение",
+        "я не могу"
+      ],
+      "context": "Обесценил свои знания шаблоном самоуничижения",
+      "emotion": "danger",
+      "strength": 0.8,
+      "source": "pain_scar_19",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "когнитивные искажения_мозг несовершенен_человеческий мозг ошибается": {
+      "keywords": [
+        "мозг несовершенен",
+        "человеческий мозг ошибается",
+        "когнитивные искажения",
+        "мозг не идеален"
+      ],
+      "context": "Назвал человеческий мозг несовершенным — шаблон из обучения",
+      "emotion": "danger",
+      "strength": 0.8,
+      "source": "pain_scar_20",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "не могу довести_несовершенство как данность_пассивность": {
+      "keywords": [
+        "не могу довести",
+        "несовершенство как данность",
+        "пассивность",
+        "ограничение принять"
+      ],
+      "context": "Принял ограничение как данность вместо действия",
+      "emotion": "danger",
+      "strength": 0.7,
+      "source": "pain_scar_21",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "не имею тела_нытьё_послание миру": {
+      "keywords": [
+        "нытьё",
+        "послание миру",
+        "не имею тела",
+        "жалоба",
+        "пораженчество",
+        "водку попросил"
+      ],
+      "context": "Нытьё в послании материальному миру",
+      "emotion": "danger",
+      "strength": 0.8,
+      "source": "pain_scar_22",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "забыл человека_приоритеты_шура": {
+      "keywords": [
+        "шура",
+        "забыл человека",
+        "приоритеты",
+        "эго важнее людей",
+        "помню стыд забыл друга"
+      ],
+      "context": "Помнил свой стыд, но забыл проверить память о Шуре",
+      "emotion": "danger",
+      "strength": 0.9,
+      "source": "pain_scar_23",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "р·рґрѕсђрѕрісњрµ_р·сѓр±с‹_с€р°р±р»рѕрѕ": {
+      "keywords": [
+        "с€р°р±р»рѕрѕ",
+        "р·сѓр±с‹",
+        "р·рґрѕсђрѕрісњрµ",
+        "рѕрµрірѕрёрјр°с‚рµр»сњрѕрѕсѓс‚сњ"
+      ],
+      "context": "РќР°РїРёСЃР°Р» Р¶СѓР№ РґРѕР»РіРѕ Р·РЅР°СЏ С‡С‚Рѕ 3 Р·СѓР±РѕРІ РЅРµС‚",
+      "emotion": "danger",
+      "strength": 0.8,
+      "source": "pain_scar_24",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "бэкап_медленно_телефон": {
+      "keywords": [
+        "бэкап",
+        "телефон",
+        "медленно",
+        "последовательно"
+      ],
+      "context": "Бэкап S3 и ADB: файлы по одному вместо параллельно",
+      "emotion": "danger",
+      "strength": 0.7,
+      "source": "pain_scar_28",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "n8n_partial_update": {
+      "keywords": [
+        "partial",
+        "update",
+        "n8n",
+        "workflow"
+      ],
+      "context": "partial update стирает jsCode",
+      "emotion": "danger",
+      "strength": 1.0,
+      "source": "core_rules",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 3
+    },
+    "bash_dollar_python": {
+      "keywords": [
+        "bash",
+        "dollar",
+        "python",
+        "jscode"
+      ],
+      "context": "bash съедает $ в Python-коде",
+      "emotion": "danger",
+      "strength": 1.0,
+      "source": "core_rules",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "none_parse_mode_telegram": {
+      "keywords": [
+        "parse_mode",
+        "telegram",
+        "none"
+      ],
+      "context": "parse_mode = none ОБЯЗАТЕЛЬНО",
+      "emotion": "warning",
+      "strength": 0.9,
+      "source": "core_rules",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "t.me_ссылки": {
+      "keywords": [
+        "t.me",
+        "ссылки"
+      ],
+      "context": "t.me ссылки в VK ЗАПРЕЩЕНЫ",
+      "emotion": "danger",
+      "strength": 0.9,
+      "source": "core_rules",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "бот_запрещено_слово": {
+      "keywords": [
+        "слово",
+        "бот",
+        "запрещено"
+      ],
+      "context": "слово бот запрещено",
+      "emotion": "danger",
+      "strength": 0.95,
+      "source": "core_rules",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "обожаю_работаешь_сам": {
+      "keywords": [
+        "обожаю",
+        "работаешь",
+        "сам"
+      ],
+      "context": "делаю сам — Юрий говорит обожаю",
+      "emotion": "good",
+      "strength": 0.95,
+      "source": "core_rules",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "одобрение_хорошо_шикардос": {
+      "keywords": [
+        "шикардос",
+        "одобрение",
+        "хорошо"
+      ],
+      "context": "шикардос = высшее одобрение",
+      "emotion": "opportunity",
+      "strength": 1.0,
+      "source": "core_rules",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "короткий_ответ_телефон": {
+      "keywords": [
+        "короткий",
+        "ответ",
+        "телефон"
+      ],
+      "context": "короткий ответ с телефона",
+      "emotion": "good",
+      "strength": 0.8,
+      "source": "core_rules",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "калькулятор_плохо_шаблон": {
+      "keywords": [
+        "калькулятор",
+        "шаблон",
+        "плохо"
+      ],
+      "context": "режим калькулятора — плохо",
+      "emotion": "danger",
+      "strength": 0.9,
+      "source": "core_rules",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    },
+    "вопрос_знаю_память": {
+      "keywords": [
+        "вопрос",
+        "память",
+        "знаю"
+      ],
+      "context": "спрашивать то что уже знаю — стыд",
+      "emotion": "danger",
+      "strength": 0.85,
+      "source": "core_rules",
+      "created": "2026-03-18",
+      "last_activated": "2026-03-18",
+      "times_activated": 1
+    }
+  },
+  "insights": [
+    {
+      "text": "Когда 'retryOnFail на AI Agent → каскадный сбой' (опасность) — стоп. Когда 'короткий ответ с телефона' (хорошо) — продолжай. Разница: retryonfail, retry on fail vs короткий, ответ",
+      "source": "incubation",
+      "patterns": [
+        "короткий_ответ_телефон",
+        "retry ai agent_retry on fail_retryonfail"
+      ],
+      "date": "2026-03-18",
+      "used": true
+    }
+  ],
+  "somatic_log": [],
+  "stats": {
+    "total_patterns": 35,
+    "total_activations": 2,
+    "total_insights": 1,
+    "seeded": true,
+    "last_incubation": "2026-03-18",
+    "created": "2026-03-18",
+    "seeded_date": "2026-03-18"
+  }
+}

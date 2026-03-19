@@ -1,0 +1,24 @@
+{
+  "weights": {
+    "pain": 0.2244,
+    "reason": 0.1756,
+    "insula": 0.1659,
+    "fear": 0.1317,
+    "autonomic": 0.1073,
+    "body": 0.078,
+    "emotion": 0.0683,
+    "counterfactual": 0.0293,
+    "dopamine": 0.0098,
+    "hunger": 0.0098
+  },
+  "adjustments": 1,
+  "last_adjusted": "2026-03-19 08:16",
+  "drift_history": [
+    {
+      "time": "2026-03-19 08:16",
+      "feedback": "criticism",
+      "pain": 0.2244,
+      "reason": 0.1756
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "balance": 0.7,
+  "state": "лёгкое покачивание",
+  "tilt": [
+    "ничего не качает"
+  ],
+  "factors": {
+    "conflict_load": 0.0,
+    "cognitive_load": 0.38,
+    "bias_load": 0.0,
+    "temporal_coherence": 1.0,
+    "will_coherence": 0.5,
+    "autonomic_stability": 0.8
+  },
+  "last_updated": "2026-03-19 10:33"
+}

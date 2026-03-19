@@ -1,0 +1,36 @@
+{
+  "streams": {
+    "foreground": {
+      "active": true,
+      "priority": 1.0,
+      "current_task": null,
+      "context": {},
+      "last_update": null
+    },
+    "yuri_monitor": {
+      "active": true,
+      "priority": 0.7,
+      "yuri_state": {},
+      "alerts": [],
+      "last_update": "2026-03-19 10:33"
+    },
+    "dmn": {
+      "active": true,
+      "priority": 0.4,
+      "insights_queue": [
+        "Примулы и фиалки снаружи, радость внутри — март живёт."
+      ],
+      "last_insight": "Примулы и фиалки снаружи, радость внутри — март живёт.",
+      "last_update": "2026-03-19 10:33"
+    },
+    "consolidation": {
+      "active": true,
+      "priority": 0.2,
+      "items_consolidating": 10,
+      "last_update": "2026-03-19 10:33"
+    }
+  },
+  "active_focus": "foreground",
+  "switch_count": 0,
+  "last_switch": null
+}

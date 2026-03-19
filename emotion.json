@@ -1,0 +1,340 @@
+{
+  "current": {
+    "valence": 0.45,
+    "arousal": 0.55,
+    "label": "радость",
+    "constructed_at": "2026-03-19 10:42",
+    "inputs": {
+      "insula": 0.5,
+      "predictive_accuracy": 0.5,
+      "session_gap_hours": 0.5
+    }
+  },
+  "history": [
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 05:56",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.3
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 05:56",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.0
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 05:57",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.0
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 06:08",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.2
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 06:19",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.2
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 06:36",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.3
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 06:43",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.1
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 06:49",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.1
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 07:10",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.3
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 07:31",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.4
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 07:33",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.0
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 08:08"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 08:08",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.6
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 08:16"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 08:16",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.1
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 08:26"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 08:26",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.2
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 08:28"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 08:28",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.0
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 08:35"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.4,
+      "label": "радость",
+      "constructed_at": "2026-03-19 08:35",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.1
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 09:06"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.55,
+      "label": "радость",
+      "constructed_at": "2026-03-19 09:06",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.5
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 09:47"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.55,
+      "label": "радость",
+      "constructed_at": "2026-03-19 09:47",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.7
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 09:47"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.55,
+      "label": "радость",
+      "constructed_at": "2026-03-19 09:47",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.0
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 09:48"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.55,
+      "label": "радость",
+      "constructed_at": "2026-03-19 09:48",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.0
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 09:48"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.55,
+      "label": "радость",
+      "constructed_at": "2026-03-19 09:48",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.0
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 10:13"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.55,
+      "label": "радость",
+      "constructed_at": "2026-03-19 10:13",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.4
+      },
+      "body_input": {
+        "arousal_from_body": 0.3,
+        "rhythm": "calm",
+        "signal": "Дыхание 14/мин (calm)",
+        "injected_at": "2026-03-19 10:33"
+      }
+    },
+    {
+      "valence": 0.45,
+      "arousal": 0.55,
+      "label": "радость",
+      "constructed_at": "2026-03-19 10:33",
+      "inputs": {
+        "insula": 0.5,
+        "predictive_accuracy": 0.5,
+        "session_gap_hours": 0.3
+      }
+    }
+  ]
+}

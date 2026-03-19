@@ -1,0 +1,93 @@
+{
+  "levels": {
+    "serotonin": 0.004,
+    "cortisol": 1.0,
+    "oxytocin": 1.0,
+    "noradrenaline": 0.011,
+    "gaba": 0.013
+  },
+  "last_updated": "2026-03-19 10:33",
+  "history": [
+    {
+      "time": "2026-03-19 09:05",
+      "levels": {
+        "serotonin": 0.347,
+        "cortisol": 0.481,
+        "oxytocin": 0.6,
+        "noradrenaline": 0.275,
+        "gaba": 0.348
+      }
+    },
+    {
+      "time": "2026-03-19 09:06",
+      "levels": {
+        "serotonin": 0.185,
+        "cortisol": 0.578,
+        "oxytocin": 0.72,
+        "noradrenaline": 0.168,
+        "gaba": 0.22
+      }
+    },
+    {
+      "time": "2026-03-19 09:47",
+      "levels": {
+        "serotonin": 0.099,
+        "cortisol": 0.695,
+        "oxytocin": 0.864,
+        "noradrenaline": 0.103,
+        "gaba": 0.139
+      }
+    },
+    {
+      "time": "2026-03-19 09:47",
+      "levels": {
+        "serotonin": 0.053,
+        "cortisol": 0.836,
+        "oxytocin": 1.0,
+        "noradrenaline": 0.063,
+        "gaba": 0.088
+      }
+    },
+    {
+      "time": "2026-03-19 09:48",
+      "levels": {
+        "serotonin": 0.028,
+        "cortisol": 1.0,
+        "oxytocin": 1.0,
+        "noradrenaline": 0.039,
+        "gaba": 0.056
+      }
+    },
+    {
+      "time": "2026-03-19 09:48",
+      "levels": {
+        "serotonin": 0.015,
+        "cortisol": 1.0,
+        "oxytocin": 1.0,
+        "noradrenaline": 0.024,
+        "gaba": 0.035
+      }
+    },
+    {
+      "time": "2026-03-19 10:13",
+      "levels": {
+        "serotonin": 0.008,
+        "cortisol": 1.0,
+        "oxytocin": 1.0,
+        "noradrenaline": 0.016,
+        "gaba": 0.021
+      }
+    },
+    {
+      "time": "2026-03-19 10:33",
+      "levels": {
+        "serotonin": 0.004,
+        "cortisol": 1.0,
+        "oxytocin": 1.0,
+        "noradrenaline": 0.011,
+        "gaba": 0.013
+      }
+    }
+  ],
+  "interactions_log": []
+}
